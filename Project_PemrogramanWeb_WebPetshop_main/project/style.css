@@ -1,0 +1,17 @@
+.WhiteButtonOutline {
+            padding: 0.5rem 1rem;
+            color: rgb(0, 0, 0);
+            border: 2px solid #000000;
+            border-radius: 0;
+            display: inline-block;
+            text-decoration: none;
+            font-family: sans-serif;
+        }
+
+        .WhiteButtonOutline:hover {
+            opacity: 0.8;
+        }
+
+        .WhiteButtonOutline i {
+            margin-left: 0.75rem;
+        }
